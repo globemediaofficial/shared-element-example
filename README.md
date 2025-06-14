@@ -4,6 +4,7 @@ This is a minimal, non-native shared element transition using:
 
 - `react-native-reanimated`
 - `expo-router`
+ - NOTE: The destination screen must have `presentation: "transparentModal"` in `_layout.tsx` for this example
 - Pure JS `measureInWindow` for initial coordinates
 
 ### Demo

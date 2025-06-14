@@ -10,7 +10,7 @@ This is a minimal, non-native shared element transition using:
 
 Long-press the image card to transition into a full-screen view with animation.
 
-https://user-images.githubusercontent.com/...
+![Demo](./ScreenRecording_06-11-2025%2015-39-08_1.gif)
 
 ### How It Works
 
